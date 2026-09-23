@@ -1,0 +1,2 @@
+## Plan
+obtener super poder 
