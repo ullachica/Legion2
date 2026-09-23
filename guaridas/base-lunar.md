@@ -56,7 +56,7 @@ _Brainiac se conecta remotamente a sus drones. Doctor Doom viaja cada 2 semanas 
 2. Señal de rescate automática a la Fortaleza Prohibida
 3. Si la cápsula no está disponible: Doctor Doom puede teletransportar a 3 personas a Latveria
 4. Último recurso: Brainiac transfiere su conciencia a la nave nodriza en órbita y abandona la base
-
+5. Se debe tener un recurso de salvavidas.
 ---
 
 _La Base Lunar es nuestro activo más valioso y más vulnerable. Cualquier operación que la exponga requiere aprobación unánime del Consejo._
